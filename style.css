@@ -1,0 +1,39 @@
+.card{
+    width: 320px;
+    height :497px;
+    border: 1px solid black;
+    border-radius: 20px;
+    
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
+.code{
+    width:288px;
+    height:288px;
+    border-radius: 10px;
+    margin-left:16px;
+    margin-right:16px;
+    margin-top:16px;
+    margin-bottom:24px;
+}
+
+.captions{
+    height:129px;
+    width:288px;
+    margin-bottom: 40px;
+    margin-left: 16px;
+    margin-right:16px;
+}
+h2{
+    color:hsl(218, 44%, 22%);
+}
+p{
+    color:gray;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
